@@ -1,0 +1,47 @@
+[
+  {
+    "campaign": "XMAS",
+    "original": "雪场",
+    "candidate": "网店",
+    "transfer_low": "0.30",
+    "transfer_high": "0.47",
+    "substitution_evidence": "同价经关闭观测",
+    "exits_cost": 110
+  },
+  {
+    "campaign": "XMAS",
+    "original": "网店",
+    "candidate": "雪场",
+    "transfer_low": "0.14",
+    "transfer_high": "0.29",
+    "substitution_evidence": "同价经关闭观测",
+    "exits_cost": 64
+  },
+  {
+    "campaign": "XMAS",
+    "original": "租赁",
+    "candidate": "网店",
+    "transfer_low": "0.00",
+    "transfer_high": "0.43",
+    "substitution_evidence": "缺同类观察",
+    "exits_cost": 29
+  },
+  {
+    "campaign": "ICE",
+    "original": "网店",
+    "candidate": "雪场",
+    "transfer_low": "0.10",
+    "transfer_high": "0.32",
+    "substitution_evidence": "覆盖重叠",
+    "exits_cost": 65
+  },
+  {
+    "campaign": "ICE",
+    "original": "雪场",
+    "candidate": "租赁",
+    "transfer_low": "0.04",
+    "transfer_high": "0.16",
+    "substitution_evidence": "距离受限",
+    "exits_cost": 121
+  }
+]

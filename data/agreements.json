@@ -1,0 +1,35 @@
+[
+  {
+    "campaign": "XMAS",
+    "min_active": 2,
+    "sales_hold": [
+      "S1301",
+      "S1311"
+    ],
+    "pickup_days": 9,
+    "optional_stop": [
+      "雪场",
+      "网店",
+      "租赁"
+    ],
+    "incompatible": [
+      [
+        "雪场联名新版",
+        "网店联名旧版"
+      ]
+    ]
+  },
+  {
+    "campaign": "ICE",
+    "min_active": 1,
+    "sales_hold": [
+      "S1202"
+    ],
+    "pickup_days": 7,
+    "optional_stop": [
+      "雪场",
+      "租赁"
+    ],
+    "incompatible": []
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "event": "A02",
+    "sale": "S0221",
+    "recognized_week": "W03",
+    "counter_channel": "雪场",
+    "category": "原渠道退货",
+    "qty": 1,
+    "cost": 12,
+    "actual_record": true
+  },
+  {
+    "event": "A03",
+    "sale": "S0301",
+    "recognized_week": "W04",
+    "counter_channel": "网店",
+    "category": "跨渠道换货",
+    "qty": 1,
+    "cost": 13,
+    "actual_record": true
+  },
+  {
+    "event": "A04",
+    "sale": "S0411",
+    "recognized_week": "W05",
+    "counter_channel": "租赁",
+    "category": "原渠道退货",
+    "qty": 1,
+    "cost": 10,
+    "actual_record": true
+  },
+  {
+    "event": "A05",
+    "sale": "S0521",
+    "recognized_week": "W06",
+    "counter_channel": "雪场",
+    "category": "跨渠道换货",
+    "qty": 1,
+    "cost": 11,
+    "actual_record": true
+  },
+  {
+    "event": "A06",
+    "sale": "S0601",
+    "recognized_week": "W07",
+    "counter_channel": "网店",
+    "category": "原渠道退货",
+    "qty": 1,
+    "cost": 12,
+    "actual_record": true
+  },
+  {
+    "event": "A07",
+    "sale": "S0711",
+    "recognized_week": "W08",
+    "counter_channel": "租赁",
+    "category": "跨渠道换货",
+    "qty": 1,
+    "cost": 13,
+    "actual_record": true
+  },
+  {
+    "event": "A08",
+    "sale": "S0821",
+    "recognized_week": "W09",
+    "counter_channel": "雪场",
+    "category": "原渠道退货",
+    "qty": 1,
+    "cost": 10,
+    "actual_record": true
+  },
+  {
+    "event": "A09",
+    "sale": "S0901",
+    "recognized_week": "W10",
+    "counter_channel": "网店",
+    "category": "跨渠道换货",
+    "qty": 1,
+    "cost": 11,
+    "actual_record": true
+  },
+  {
+    "event": "A10",
+    "sale": "S1011",
+    "recognized_week": "W11",
+    "counter_channel": "租赁",
+    "category": "原渠道退货",
+    "qty": 1,
+    "cost": 12,
+    "actual_record": true
+  },
+  {
+    "event": "A11",
+    "sale": "S1121",
+    "recognized_week": "W12",
+    "counter_channel": "雪场",
+    "category": "跨渠道换货",
+    "qty": 1,
+    "cost": 13,
+    "actual_record": true
+  },
+  {
+    "event": "A12",
+    "sale": "S1201",
+    "recognized_week": "W13",
+    "counter_channel": "网店",
+    "category": "原渠道退货",
+    "qty": 1,
+    "cost": 10,
+    "actual_record": true
+  },
+  {
+    "event": "A13",
+    "sale": "S1311",
+    "recognized_week": "W14",
+    "counter_channel": "雪场",
+    "category": "陈列费用",
+    "qty": 0,
+    "cost": 120,
+    "actual_record": true
+  },
+  {
+    "event": "A14",
+    "sale": "S1301",
+    "recognized_week": "W14",
+    "counter_channel": "网店",
+    "category": "跨渠道换货",
+    "qty": 2,
+    "cost": 27,
+    "actual_record": true
+  }
+]

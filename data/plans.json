@@ -1,0 +1,392 @@
+[
+  {
+    "plan": "P010",
+    "week": "W01",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 24,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P011",
+    "week": "W01",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 31,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P012",
+    "week": "W01",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 38,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P020",
+    "week": "W02",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 25,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P021",
+    "week": "W02",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 32,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P022",
+    "week": "W02",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 39,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P030",
+    "week": "W03",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 26,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P031",
+    "week": "W03",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 33,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P032",
+    "week": "W03",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 40,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P040",
+    "week": "W04",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 27,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P041",
+    "week": "W04",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 34,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P042",
+    "week": "W04",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 41,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P050",
+    "week": "W05",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 23,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P051",
+    "week": "W05",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 30,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P052",
+    "week": "W05",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 37,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P060",
+    "week": "W06",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 24,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P061",
+    "week": "W06",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 31,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P062",
+    "week": "W06",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 38,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P070",
+    "week": "W07",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 25,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P071",
+    "week": "W07",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 32,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P072",
+    "week": "W07",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 39,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P080",
+    "week": "W08",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 26,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P081",
+    "week": "W08",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 33,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P082",
+    "week": "W08",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 40,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P090",
+    "week": "W09",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 27,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P091",
+    "week": "W09",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 34,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P092",
+    "week": "W09",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 41,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P100",
+    "week": "W10",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 23,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P101",
+    "week": "W10",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 30,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P102",
+    "week": "W10",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 37,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P110",
+    "week": "W11",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 24,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P111",
+    "week": "W11",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 31,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P112",
+    "week": "W11",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 38,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P120",
+    "week": "W12",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 25,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P121",
+    "week": "W12",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 32,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P122",
+    "week": "W12",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 39,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "ICE"
+  },
+  {
+    "plan": "P130",
+    "week": "W13",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 26,
+    "goal_price": 258,
+    "unit_cost": 145,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P131",
+    "week": "W13",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 33,
+    "goal_price": 149,
+    "unit_cost": 82,
+    "campaign": "XMAS"
+  },
+  {
+    "plan": "P132",
+    "week": "W13",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 40,
+    "goal_price": 65,
+    "unit_cost": 48,
+    "campaign": "XMAS"
+  }
+]

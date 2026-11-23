@@ -1,0 +1,2095 @@
+[
+  {
+    "sale": "S0100",
+    "week": "W01",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 4,
+    "price": 253,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P010",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0101",
+    "week": "W01",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 5,
+    "price": 252,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P010",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0102",
+    "week": "W01",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 6,
+    "price": 251,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P010",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0103",
+    "week": "W01",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 7,
+    "price": 250,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P010",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0110",
+    "week": "W01",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 5,
+    "price": 153,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P011",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0111",
+    "week": "W01",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 6,
+    "price": 152,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P011",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0112",
+    "week": "W01",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 7,
+    "price": 151,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P011",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0113",
+    "week": "W01",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 8,
+    "price": 150,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P011",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0120",
+    "week": "W01",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 6,
+    "price": 62,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P012",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0121",
+    "week": "W01",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 7,
+    "price": 61,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P012",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0122",
+    "week": "W01",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 8,
+    "price": 60,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P012",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0123",
+    "week": "W01",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 9,
+    "price": 59,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P012",
+    "maturity_week": "W02"
+  },
+  {
+    "sale": "S0200",
+    "week": "W02",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 5,
+    "price": 257,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P020",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0201",
+    "week": "W02",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 6,
+    "price": 256,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P020",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0202",
+    "week": "W02",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 7,
+    "price": 255,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P020",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0203",
+    "week": "W02",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 8,
+    "price": 254,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P020",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0210",
+    "week": "W02",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 6,
+    "price": 157,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P021",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0211",
+    "week": "W02",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 7,
+    "price": 156,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P021",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0212",
+    "week": "W02",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 8,
+    "price": 155,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P021",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0213",
+    "week": "W02",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 9,
+    "price": 154,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P021",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0220",
+    "week": "W02",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 7,
+    "price": 66,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P022",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0221",
+    "week": "W02",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 8,
+    "price": 65,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P022",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0222",
+    "week": "W02",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 9,
+    "price": 64,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P022",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0223",
+    "week": "W02",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 3,
+    "price": 63,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P022",
+    "maturity_week": "W03"
+  },
+  {
+    "sale": "S0300",
+    "week": "W03",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 6,
+    "price": 249,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P030",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0301",
+    "week": "W03",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 7,
+    "price": 248,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P030",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0302",
+    "week": "W03",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 8,
+    "price": 247,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P030",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0303",
+    "week": "W03",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 9,
+    "price": 246,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P030",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0310",
+    "week": "W03",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 7,
+    "price": 149,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P031",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0311",
+    "week": "W03",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 8,
+    "price": 148,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P031",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0312",
+    "week": "W03",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 9,
+    "price": 147,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P031",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0313",
+    "week": "W03",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 3,
+    "price": 146,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P031",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0320",
+    "week": "W03",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 8,
+    "price": 58,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P032",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0321",
+    "week": "W03",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 9,
+    "price": 57,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P032",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0322",
+    "week": "W03",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 3,
+    "price": 56,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P032",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0323",
+    "week": "W03",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 4,
+    "price": 55,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P032",
+    "maturity_week": "W04"
+  },
+  {
+    "sale": "S0400",
+    "week": "W04",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 7,
+    "price": 253,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P040",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0401",
+    "week": "W04",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 8,
+    "price": 252,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P040",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0402",
+    "week": "W04",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 9,
+    "price": 251,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P040",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0403",
+    "week": "W04",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 3,
+    "price": 250,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P040",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0410",
+    "week": "W04",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 8,
+    "price": 153,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P041",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0411",
+    "week": "W04",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 9,
+    "price": 152,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P041",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0412",
+    "week": "W04",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 3,
+    "price": 151,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P041",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0413",
+    "week": "W04",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 4,
+    "price": 150,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P041",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0420",
+    "week": "W04",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 9,
+    "price": 62,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P042",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0421",
+    "week": "W04",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 3,
+    "price": 61,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P042",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0422",
+    "week": "W04",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 4,
+    "price": 60,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P042",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0423",
+    "week": "W04",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 5,
+    "price": 59,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P042",
+    "maturity_week": "W05"
+  },
+  {
+    "sale": "S0500",
+    "week": "W05",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 8,
+    "price": 257,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P050",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0501",
+    "week": "W05",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 9,
+    "price": 256,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P050",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0502",
+    "week": "W05",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 3,
+    "price": 255,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P050",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0503",
+    "week": "W05",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 4,
+    "price": 254,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P050",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0510",
+    "week": "W05",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 9,
+    "price": 157,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P051",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0511",
+    "week": "W05",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 3,
+    "price": 156,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P051",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0512",
+    "week": "W05",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 4,
+    "price": 155,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P051",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0513",
+    "week": "W05",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 5,
+    "price": 154,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P051",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0520",
+    "week": "W05",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 3,
+    "price": 66,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P052",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0521",
+    "week": "W05",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 4,
+    "price": 65,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P052",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0522",
+    "week": "W05",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 5,
+    "price": 64,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P052",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0523",
+    "week": "W05",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 6,
+    "price": 63,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P052",
+    "maturity_week": "W06"
+  },
+  {
+    "sale": "S0600",
+    "week": "W06",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 9,
+    "price": 249,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P060",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0601",
+    "week": "W06",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 3,
+    "price": 248,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P060",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0602",
+    "week": "W06",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 4,
+    "price": 247,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P060",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0603",
+    "week": "W06",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 5,
+    "price": 246,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P060",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0610",
+    "week": "W06",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 3,
+    "price": 149,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P061",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0611",
+    "week": "W06",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 4,
+    "price": 148,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P061",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0612",
+    "week": "W06",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 5,
+    "price": 147,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P061",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0613",
+    "week": "W06",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 6,
+    "price": 146,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P061",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0620",
+    "week": "W06",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 4,
+    "price": 58,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P062",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0621",
+    "week": "W06",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 5,
+    "price": 57,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P062",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0622",
+    "week": "W06",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 6,
+    "price": 56,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P062",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0623",
+    "week": "W06",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 7,
+    "price": 55,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P062",
+    "maturity_week": "W07"
+  },
+  {
+    "sale": "S0700",
+    "week": "W07",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 3,
+    "price": 253,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P070",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0701",
+    "week": "W07",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 4,
+    "price": 252,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P070",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0702",
+    "week": "W07",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 5,
+    "price": 251,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P070",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0703",
+    "week": "W07",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 6,
+    "price": 250,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P070",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0710",
+    "week": "W07",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 4,
+    "price": 153,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P071",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0711",
+    "week": "W07",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 5,
+    "price": 152,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P071",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0712",
+    "week": "W07",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 6,
+    "price": 151,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P071",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0713",
+    "week": "W07",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 7,
+    "price": 150,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P071",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0720",
+    "week": "W07",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 5,
+    "price": 62,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P072",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0721",
+    "week": "W07",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 6,
+    "price": 61,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P072",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0722",
+    "week": "W07",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 7,
+    "price": 60,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P072",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0723",
+    "week": "W07",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 8,
+    "price": 59,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P072",
+    "maturity_week": "W08"
+  },
+  {
+    "sale": "S0800",
+    "week": "W08",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 4,
+    "price": 257,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P080",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0801",
+    "week": "W08",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 5,
+    "price": 256,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P080",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0802",
+    "week": "W08",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 6,
+    "price": 255,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P080",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0803",
+    "week": "W08",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 7,
+    "price": 254,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P080",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0810",
+    "week": "W08",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 5,
+    "price": 157,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P081",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0811",
+    "week": "W08",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 6,
+    "price": 156,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P081",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0812",
+    "week": "W08",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 7,
+    "price": 155,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P081",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0813",
+    "week": "W08",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 8,
+    "price": 154,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P081",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0820",
+    "week": "W08",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 6,
+    "price": 66,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P082",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0821",
+    "week": "W08",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 7,
+    "price": 65,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P082",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0822",
+    "week": "W08",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 8,
+    "price": 64,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P082",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0823",
+    "week": "W08",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 9,
+    "price": 63,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P082",
+    "maturity_week": "W09"
+  },
+  {
+    "sale": "S0900",
+    "week": "W09",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 5,
+    "price": 249,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P090",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0901",
+    "week": "W09",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 6,
+    "price": 248,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P090",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0902",
+    "week": "W09",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 7,
+    "price": 247,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P090",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0903",
+    "week": "W09",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 8,
+    "price": 246,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P090",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0910",
+    "week": "W09",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 6,
+    "price": 149,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P091",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0911",
+    "week": "W09",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 7,
+    "price": 148,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P091",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0912",
+    "week": "W09",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 8,
+    "price": 147,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P091",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0913",
+    "week": "W09",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 9,
+    "price": 146,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P091",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0920",
+    "week": "W09",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 7,
+    "price": 58,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P092",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0921",
+    "week": "W09",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 8,
+    "price": 57,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P092",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0922",
+    "week": "W09",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 9,
+    "price": 56,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P092",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S0923",
+    "week": "W09",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 3,
+    "price": 55,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P092",
+    "maturity_week": "W10"
+  },
+  {
+    "sale": "S1000",
+    "week": "W10",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 6,
+    "price": 253,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P100",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1001",
+    "week": "W10",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 7,
+    "price": 252,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P100",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1002",
+    "week": "W10",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 8,
+    "price": 251,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P100",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1003",
+    "week": "W10",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 9,
+    "price": 250,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P100",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1010",
+    "week": "W10",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 7,
+    "price": 153,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P101",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1011",
+    "week": "W10",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 8,
+    "price": 152,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P101",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1012",
+    "week": "W10",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 9,
+    "price": 151,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P101",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1013",
+    "week": "W10",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 3,
+    "price": 150,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P101",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1020",
+    "week": "W10",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 8,
+    "price": 62,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P102",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1021",
+    "week": "W10",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 9,
+    "price": 61,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P102",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1022",
+    "week": "W10",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 3,
+    "price": 60,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P102",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1023",
+    "week": "W10",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 4,
+    "price": 59,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P102",
+    "maturity_week": "W11"
+  },
+  {
+    "sale": "S1100",
+    "week": "W11",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 7,
+    "price": 257,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P110",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1101",
+    "week": "W11",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 8,
+    "price": 256,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P110",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1102",
+    "week": "W11",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 9,
+    "price": 255,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P110",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1103",
+    "week": "W11",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 3,
+    "price": 254,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P110",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1110",
+    "week": "W11",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 8,
+    "price": 157,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P111",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1111",
+    "week": "W11",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 9,
+    "price": 156,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P111",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1112",
+    "week": "W11",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 3,
+    "price": 155,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P111",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1113",
+    "week": "W11",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 4,
+    "price": 154,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P111",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1120",
+    "week": "W11",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 9,
+    "price": 66,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P112",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1121",
+    "week": "W11",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 3,
+    "price": 65,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P112",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1122",
+    "week": "W11",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 4,
+    "price": 64,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P112",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1123",
+    "week": "W11",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 5,
+    "price": 63,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P112",
+    "maturity_week": "W12"
+  },
+  {
+    "sale": "S1200",
+    "week": "W12",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 8,
+    "price": 249,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P120",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1201",
+    "week": "W12",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 9,
+    "price": 248,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P120",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1202",
+    "week": "W12",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 3,
+    "price": 247,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P120",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1203",
+    "week": "W12",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 4,
+    "price": 246,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P120",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1210",
+    "week": "W12",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 9,
+    "price": 149,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P121",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1211",
+    "week": "W12",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 3,
+    "price": 148,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P121",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1212",
+    "week": "W12",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 4,
+    "price": 147,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P121",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1213",
+    "week": "W12",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 5,
+    "price": 146,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P121",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1220",
+    "week": "W12",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 3,
+    "price": 58,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P122",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1221",
+    "week": "W12",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 4,
+    "price": 57,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P122",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1222",
+    "week": "W12",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 5,
+    "price": 56,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P122",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1223",
+    "week": "W12",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 6,
+    "price": 55,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P122",
+    "maturity_week": "W13"
+  },
+  {
+    "sale": "S1300",
+    "week": "W13",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 9,
+    "price": 253,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P130",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1301",
+    "week": "W13",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 3,
+    "price": 252,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P130",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1302",
+    "week": "W13",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 4,
+    "price": 251,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P130",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1303",
+    "week": "W13",
+    "channel": "雪场",
+    "bundle": "双件",
+    "units": 5,
+    "price": 250,
+    "parts": [
+      "手套",
+      "护腕"
+    ],
+    "plan": "P130",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1310",
+    "week": "W13",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 3,
+    "price": 153,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P131",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1311",
+    "week": "W13",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 4,
+    "price": 152,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P131",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1312",
+    "week": "W13",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 5,
+    "price": 151,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P131",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1313",
+    "week": "W13",
+    "channel": "网店",
+    "bundle": "单件",
+    "units": 6,
+    "price": 150,
+    "parts": [
+      "手套"
+    ],
+    "plan": "P131",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1320",
+    "week": "W13",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 4,
+    "price": 62,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P132",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1321",
+    "week": "W13",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 5,
+    "price": 61,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P132",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1322",
+    "week": "W13",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 6,
+    "price": 60,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P132",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S1323",
+    "week": "W13",
+    "channel": "租赁",
+    "bundle": "短租",
+    "units": 7,
+    "price": 59,
+    "parts": [
+      "护腕体验"
+    ],
+    "plan": "P132",
+    "maturity_week": "W14"
+  },
+  {
+    "sale": "S13N",
+    "week": "W13",
+    "channel": "雪场",
+    "bundle": "新防护",
+    "units": 4,
+    "price": 208,
+    "parts": [
+      "新护具"
+    ],
+    "plan": null,
+    "maturity_week": "W14"
+  }
+]

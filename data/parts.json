@@ -1,0 +1,32 @@
+[
+  {
+    "part": "手套",
+    "bundle": "双件",
+    "regular_unit_cost": 83,
+    "allocation_weight": 3
+  },
+  {
+    "part": "护腕",
+    "bundle": "双件",
+    "regular_unit_cost": 62,
+    "allocation_weight": 2
+  },
+  {
+    "part": "手套",
+    "bundle": "单件",
+    "regular_unit_cost": 82,
+    "allocation_weight": 1
+  },
+  {
+    "part": "护腕体验",
+    "bundle": "短租",
+    "regular_unit_cost": 48,
+    "allocation_weight": 1
+  },
+  {
+    "part": "新护具",
+    "bundle": "新防护",
+    "regular_unit_cost": 123,
+    "allocation_weight": 1
+  }
+]

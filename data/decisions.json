@@ -1,0 +1,38 @@
+[
+  {
+    "decision": "D1",
+    "campaign": "ICE",
+    "channel": "雪场",
+    "action": "改款",
+    "requested_week": "W08",
+    "active_week": "W09",
+    "state": "已生效"
+  },
+  {
+    "decision": "D2",
+    "campaign": "XMAS",
+    "channel": "网店",
+    "action": "退出",
+    "requested_week": "W13",
+    "active_week": null,
+    "state": "申请"
+  },
+  {
+    "decision": "D3",
+    "campaign": "XMAS",
+    "channel": "租赁",
+    "action": "退出",
+    "requested_week": "W13",
+    "active_week": null,
+    "state": "申请"
+  },
+  {
+    "decision": "D4",
+    "campaign": "XMAS",
+    "channel": "雪场",
+    "action": "保留",
+    "requested_week": "W12",
+    "active_week": "W13",
+    "state": "已确认"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "decision": "D1",
+    "known_week": "W12",
+    "route": "雪场→租赁",
+    "eligible_customers": 31,
+    "actual_migrated": 5,
+    "confirmed_exits_cost": 42,
+    "closed_receipts": [
+      "S0801"
+    ],
+    "held_contract": true
+  },
+  {
+    "decision": "D1",
+    "known_week": "W13",
+    "route": "雪场→租赁",
+    "eligible_customers": 24,
+    "actual_migrated": 6,
+    "confirmed_exits_cost": 21,
+    "closed_receipts": [
+      "S0802"
+    ],
+    "held_contract": true
+  }
+]
