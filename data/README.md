@@ -4,3 +4,5 @@
 渠道退出仍受 campaign 的最低营业渠道数 min_active 约束，optional_stop 是有退出权的范围。incompatible 中每个组允许至多同时存在一个陈列版本。sales_hold 是该活动仍需按单据兑现的旧交付，pickup_days 是自提约定保留天数。转购区间是候选效果输入，不是既已发生的转购，对缺同类观察的方向仅供敏感性分析。
 
 followups 记录各决议后分批收到的转购统计及完成交付的回单。实际费用与候选预计费用各自保留。
+
+entitlements 记录还有效的销售权益，partial 为是否允许单件先行兑现。assumption_changes 表示营运发布接管渠道及认可数量，按同一商品移交版本更新，部分接受只承接确认部分。redemption_events 中 serial 是实物交付凭证的序号，只在可核实实物有效时认定履行。相同序号跨店录得不增加实际件数。

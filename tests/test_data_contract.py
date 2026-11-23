@@ -19,3 +19,12 @@ class SourceContractTest(unittest.TestCase):
         asks = [row for row in read_table("decisions") if row["campaign"] == "XMAS" and row["action"] == "退出"]
         self.assertTrue(set(agreement["sales_hold"]) <= set(sales))
         self.assertLess(len(agreement["optional_stop"]) - len(asks), agreement["min_active"])
+
+    def test_channel_handover_inputs(self):
+        sources = [read_table(name) for name in ['entitlements', 'assumption_changes', 'redemption_events', 'sales']]
+        self.assertTrue(all(x["sale"] in {s["sale"] for s in sources[3]} for x in sources[0]))
+        self.assertEqual({x["approved"] for x in sources[1]},{"接受","待接管","部分接受","拒绝"})
+        matching=[x for x in sources[2] if x["serial"]=="SER-01"]
+        self.assertEqual({x["site"] for x in matching},{"雪场","网店"})
+        self.assertEqual({x["kind"] for x in matching},{"自提记账","重复扫描"})
+

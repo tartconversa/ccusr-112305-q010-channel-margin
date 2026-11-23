@@ -1,0 +1,46 @@
+[
+  {
+    "publication": "N1",
+    "source": "雪场",
+    "target": "网店",
+    "campaign": "XMAS",
+    "sku": "双件",
+    "qty": 5,
+    "version": 1,
+    "approved": "接受",
+    "receiving_week": "W13"
+  },
+  {
+    "publication": "N2",
+    "source": "网店",
+    "target": "雪场",
+    "campaign": "XMAS",
+    "sku": "单件",
+    "qty": 3,
+    "version": 1,
+    "approved": "待接管",
+    "receiving_week": "W13"
+  },
+  {
+    "publication": "N3",
+    "source": "雪场",
+    "target": "网店",
+    "campaign": "XMAS",
+    "sku": "双件",
+    "qty": 2,
+    "version": 2,
+    "approved": "部分接受",
+    "receiving_week": "W14"
+  },
+  {
+    "publication": "N4",
+    "source": "租赁",
+    "target": "雪场",
+    "campaign": "XMAS",
+    "sku": "短租",
+    "qty": 4,
+    "version": 1,
+    "approved": "拒绝",
+    "receiving_week": "W14"
+  }
+]

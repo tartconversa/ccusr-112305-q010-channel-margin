@@ -1,0 +1,35 @@
+[
+  {
+    "voucher": "V-1",
+    "campaign": "XMAS",
+    "channel": "雪场",
+    "sale": "S1301",
+    "bundle": "双件",
+    "units": 2,
+    "partial": false,
+    "issue_week": "W13",
+    "valid_until": "W14"
+  },
+  {
+    "voucher": "V-2",
+    "campaign": "XMAS",
+    "channel": "网店",
+    "sale": "S1311",
+    "bundle": "单件",
+    "units": 1,
+    "partial": true,
+    "issue_week": "W13",
+    "valid_until": "W14"
+  },
+  {
+    "voucher": "V-3",
+    "campaign": "ICE",
+    "channel": "雪场",
+    "sale": "S1202",
+    "bundle": "双件",
+    "units": 1,
+    "partial": false,
+    "issue_week": "W12",
+    "valid_until": "W14"
+  }
+]

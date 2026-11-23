@@ -1,0 +1,46 @@
+[
+  {
+    "event": "V1R1",
+    "voucher": "V-1",
+    "site": "雪场",
+    "applied_at": "W13",
+    "known_at": "W13",
+    "serial": "SER-01",
+    "units": 1,
+    "kind": "自提记账",
+    "previous": null
+  },
+  {
+    "event": "V1R2",
+    "voucher": "V-1",
+    "site": "网店",
+    "applied_at": "W13",
+    "known_at": "W14",
+    "serial": "SER-01",
+    "units": 1,
+    "kind": "重复扫描",
+    "previous": null
+  },
+  {
+    "event": "V1R3",
+    "voucher": "V-1",
+    "site": "雪场",
+    "applied_at": "W14",
+    "known_at": "W14",
+    "serial": "SER-02",
+    "units": 1,
+    "kind": "补交接",
+    "previous": "V1R1"
+  },
+  {
+    "event": "V2R1",
+    "voucher": "V-2",
+    "site": "网店",
+    "applied_at": "W14",
+    "known_at": "W14",
+    "serial": "SER-08",
+    "units": 1,
+    "kind": "核销实物",
+    "previous": null
+  }
+]
